@@ -11,6 +11,7 @@
 // Arduino USB HID adapter for the Palm Portable Keyboard
 
 #include <SoftwareSerial.h>
+#include <Keyboard.h>
 
 // set to 3 for III hardware, or 5 for V hardware
 #define PPK_VERSION 3
